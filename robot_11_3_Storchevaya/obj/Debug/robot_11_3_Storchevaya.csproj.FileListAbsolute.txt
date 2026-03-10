@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.GameRobot.resources
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.Properties.Resources.resources
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.csproj.GenerateResource.cache
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\robot_11_3_Storchevaya\bin\Debug\robot_11_3_Storchevaya.exe.config
+C:\Users\1\Desktop\robot_11_3_Storchevaya\bin\Debug\robot_11_3_Storchevaya.exe
+C:\Users\1\Desktop\robot_11_3_Storchevaya\bin\Debug\robot_11_3_Storchevaya.pdb
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.exe
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.pdb
+C:\Users\1\Desktop\robot_11_3_Storchevaya\obj\Debug\robot_11_3_Storchevaya.exe.config
